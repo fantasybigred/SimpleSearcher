@@ -1,0 +1,6 @@
+﻿  MainUIDlg.cpp
+c:\users\bigre\documents\visual studio 2015\projects\简单搜索引擎\mainui\mainuidlg.cpp(259): warning C4101: “dwRet”: 未引用的局部变量
+c:\users\bigre\documents\visual studio 2015\projects\简单搜索引擎\mainui\mainuidlg.cpp(318): warning C4129: “.”: 不可识别的字符转义序列
+c:\users\bigre\documents\visual studio 2015\projects\简单搜索引擎\mainui\mainuidlg.cpp(318): warning C4129: “&”: 不可识别的字符转义序列
+  MainUI.vcxproj -> C:\Users\bigre\Documents\Visual Studio 2015\Projects\简单搜索引擎\Debug\MainUI.exe
+  MainUI.vcxproj -> C:\Users\bigre\Documents\Visual Studio 2015\Projects\简单搜索引擎\Debug\MainUI.pdb (Partial PDB)
